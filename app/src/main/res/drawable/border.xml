@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"  android:shape="rectangle" >
+
+    <!-- 设置背景颜色 -->
+<!--    <solid android:color="#02FE28" />-->
+    <!-- 设置边框颜色和粗细 -->
+    <stroke android:color="#959595" android:width="2dp"/>
+
+    <!-- 圆角半径 -->
+
+    <!-- 统一设置四个角 -->
+    <corners android:radius="10dp" />
+    <!-- 单独设置四个角 -->
+<!--    <corners-->
+<!--        android:topRightRadius="5dp"-->
+<!--        android:bottomRightRadius="5dp"-->
+<!--        android:topLeftRadius="5dp"-->
+<!--        android:bottomLeftRadius="5dp"/>-->
+</shape>
