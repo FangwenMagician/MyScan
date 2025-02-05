@@ -10,6 +10,7 @@ android {
     defaultConfig {
         applicationId = "top.fangwenmagician.myscan"
         minSdk = 23
+        //noinspection ExpiredTargetSdkVersion
         targetSdk = 29
         versionCode = 1
         versionName = "1.0"
